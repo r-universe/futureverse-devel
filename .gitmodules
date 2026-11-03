@@ -1,5 +1,84 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/futureverse-devel/futureverse-devel.r-universe.dev
 	branch = HEAD
+[submodule "BiocParallel.FutureParam"]
+	path = BiocParallel.FutureParam
+	url = https://github.com/futureverse/BiocParallel.FutureParam
+	branch = develop
+[submodule "doFuture"]
+	path = doFuture
+	url = https://github.com/futureverse/doFuture
+	branch = develop
+[submodule "doFuture.tests.extra"]
+	path = doFuture.tests.extra
+	url = https://github.com/futureverse/doFuture.tests.extra
+	branch = develop
+[submodule "future"]
+	path = future
+	url = https://github.com/futureverse/future
+	branch = develop
+[submodule "future.apply"]
+	path = future.apply
+	url = https://github.com/futureverse/future.apply
+	branch = develop
+[submodule "future.batchtools"]
+	path = future.batchtools
+	url = https://github.com/futureverse/future.batchtools
+	branch = develop
+[submodule "future.callr"]
+	path = future.callr
+	url = https://github.com/futureverse/future.callr
+	branch = develop
+[submodule "future.mapreduce"]
+	path = future.mapreduce
+	url = https://github.com/futureverse/future.mapreduce
+	branch = develop
+[submodule "future.mirai"]
+	path = future.mirai
+	url = https://github.com/futureverse/future.mirai
+	branch = develop
+[submodule "future.p2p"]
+	path = future.p2p
+	url = https://github.com/futureverse/future.p2p
+	branch = develop
+[submodule "future.tests"]
+	path = future.tests
+	url = https://github.com/futureverse/future.tests
+	branch = develop
+[submodule "future.tools"]
+	path = future.tools
+	url = https://github.com/futureverse/future.tools
+	branch = develop
+[submodule "futureverse"]
+	path = futureverse
+	url = https://github.com/futureverse/futureverse
+	branch = develop
+[submodule "futurize"]
+	path = futurize
+	url = https://github.com/futureverse/futurize
+	branch = develop
+[submodule "globals"]
+	path = globals
+	url = https://github.com/futureverse/globals
+	branch = develop
+[submodule "listenv"]
+	path = listenv
+	url = https://github.com/futureverse/listenv
+	branch = develop
+[submodule "marshal"]
+	path = marshal
+	url = https://github.com/futureverse/marshal
+	branch = develop
+[submodule "parallelly"]
+	path = parallelly
+	url = https://github.com/futureverse/parallelly
+	branch = develop
+[submodule "progressify"]
+	path = progressify
+	url = https://github.com/futureverse/progressify
+	branch = develop
+[submodule "progressr"]
+	path = progressr
+	url = https://github.com/futureverse/progressr
+	branch = develop
