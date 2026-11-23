@@ -38,6 +38,10 @@
 	path = future.mirai
 	url = https://github.com/futureverse/future.mirai
 	branch = develop
+[submodule "future.mizu"]
+	path = future.mizu
+	url = https://github.com/futureverse/future.mizu
+	branch = develop
 [submodule "future.p2p"]
 	path = future.p2p
 	url = https://github.com/futureverse/future.p2p
